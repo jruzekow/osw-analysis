@@ -15,3 +15,6 @@ You can save a copy of the file in your personal google drive to make edits and 
  - Notebook 4: Heatmap analysis and further plotting of winter OSW + solar. Plot images can be viewed without running the code in the "OSW and Solar Analysis Results.ppt". 
 
 Github and notebooks 1-4 created by Jack Ruzekowicz, UCS summer fellow. Contact: jruzekowicz@gmail.com
+
+Updates in Progress: 
+- Notebook 4: Adding a heatmap that expressed the average number of days of elevated risk across all years. 
