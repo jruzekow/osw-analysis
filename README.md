@@ -12,9 +12,12 @@ You can save a copy of the file in your personal google drive to make edits and 
  - Notebook 1: Analysis of potential OSW installment on the winter month load. How does OSW reduce the number of days when the power system is in a state of elevated risk?
  - Notebook 2: Analysis of potential OSW installments on the load of non-winter months. Are non-winter months a concern for states of elevated risk, and does OSW play a big roll in limiting this?
  - Notebook 3: Analysis of potential OSW and solar installment on the winter month load. How does the addition of solar with OSW impact the number of days when the power system is in a state of elevated risk?
- - Notebook 4: Heatmap analysis and further plotting of winter OSW + solar. Plot images can be viewed without running the code in the "OSW and Solar Analysis Results.ppt". 
+ - Notebook 4: Heatmap analysis of winter OSW + solar.
+ - Notebook 5: Interactive analysis using slider values for OSW and solar fleet sizes. 
 
-Github and notebooks 1-4 created by Jack Ruzekowicz, UCS summer fellow. Contact: jruzekowicz@gmail.com
+Plots created in notebooks 1-4 can be viewed without running the code in the "OSW and Solar Analysis Results.ppt". 
+
+Github and notebooks 1-5 created by Jack Ruzekowicz, UCS summer 2024 fellow. Contact: jruzekowicz@gmail.com
 
 Updates in Progress: 
-- Notebook 4: Adding a heatmap that expressed the average number of days of elevated risk across all years. 
+-  
