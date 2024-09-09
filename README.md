@@ -9,6 +9,8 @@ The notebooks can be opened through google colab or jupyter lab. To do this thro
 
 You can save a copy of the file in your personal google drive to make edits and further examine the data. The notebooks can also be used as the basis for understanding how to examine and analyze ISONE data. 
 
+The files can be updated by creating a pull request for your edits and having it reviewed by a member of the UCS organization to be incorporated into the main branch of the repository. 
+
  - Notebook 1: Analysis of potential OSW installment on the winter month load. How does OSW reduce the number of days when the power system is in a state of elevated risk?
  - Notebook 2: Analysis of potential OSW installments on the load of non-winter months. Are non-winter months a concern for states of elevated risk, and does OSW play a big roll in limiting this?
  - Notebook 3: Analysis of potential OSW and solar installment on the winter month load. How does the addition of solar with OSW impact the number of days when the power system is in a state of elevated risk?
@@ -17,7 +19,7 @@ You can save a copy of the file in your personal google drive to make edits and 
 
 Plots created in notebooks 1-4 can be viewed without running the code in the "OSW and Solar Analysis Results.ppt". 
 
-Github and notebooks 1-5 created by Jack Ruzekowicz, UCS summer 2024 fellow. Contact: jruzekowicz@gmail.com
+Github and notebooks 1-5 created by Jack Ruzekowicz, UCS summer 2024 fellow from July-September. Contact: jruzekowicz@gmail.com
 
 Updates in Progress: 
 -  
