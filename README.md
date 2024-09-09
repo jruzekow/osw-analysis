@@ -20,4 +20,4 @@ Plots created in notebooks 1-4 can be viewed without running the code in the "OS
 Github and notebooks 1-5 created by Jack Ruzekowicz, UCS summer 2024 fellow. Contact: jruzekowicz@gmail.com
 
 Updates in Progress: 
--  
+-  Updates currently needed can be found under the issues tab. 
